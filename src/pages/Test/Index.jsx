@@ -1,9 +1,10 @@
 import React from 'react'
+import ChatBot from '../../components/Messenger/Index'
 
-const Index = () => {
+const Test = () => {
   return (
-    <div>Index</div>
+    <ChatBot/>
   )
 }
 
-export default Index
+export default Test
